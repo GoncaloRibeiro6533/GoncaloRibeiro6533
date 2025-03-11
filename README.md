@@ -49,7 +49,6 @@
   
   <b>Note:</b> These are just a few tools I’ve used in my academic projects. I’m continually expanding my skill set!
 </div>
----
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-ribeir0/)
