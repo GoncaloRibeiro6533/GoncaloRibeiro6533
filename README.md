@@ -8,7 +8,7 @@
 
 ## 📌 About Me
 - 🎓 Final-year student of Computer Science and Engineering at ISEL
-- 📚 Currently exploring **Cloud Computing** and **DevOps**
+- 📚 Currently exploring **Cloud Computing**
 - 🎯 **Goals**: Deepen my understanding of software development best practices and apply what I've learned in real-world projects
 
 ---
