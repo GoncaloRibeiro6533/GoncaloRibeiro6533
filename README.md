@@ -1,9 +1,4 @@
 <h1 align="center">Hey! 👋 I'm Gonçalo Ribeiro</h1>
-
-<p align="center">
-  <em>Computer Science and Engineering student at <a href="https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering">ISEL</a>.</em>
-</p>
-
 ---
 
 ## 📌 About Me
