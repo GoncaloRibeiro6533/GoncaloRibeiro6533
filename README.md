@@ -1,5 +1,4 @@
 <h1 align="center">Hey! 👋 I'm Gonçalo Ribeiro</h1>
----
 
 ## 📌 About Me
 - 🎓 Graduated in Computer Science and Engineering from <a href="https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering">ISEL</a>
