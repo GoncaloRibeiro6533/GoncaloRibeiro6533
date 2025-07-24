@@ -1,14 +1,13 @@
 <h1 align="center">Hey! 👋 I'm Gonçalo Ribeiro</h1>
 
 <p align="center">
-  <em>Final-year Computer Science and Engineering student at <a href="https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering">ISEL</a>.</em>
+  <em>Computer Science and Engineering student at <a href="https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering">ISEL</a>.</em>
 </p>
 
 ---
 
 ## 📌 About Me
-- 🎓 Final-year student of Computer Science and Engineering at ISEL
-- 📚 Currently exploring **Cloud Computing**
+- 🎓 Graduated in Computer Science and Engineering from <a href="https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering">ISEL</a>
 - 🎯 **Goals**: Deepen my understanding of software development best practices and apply what I've learned in real-world projects
 
 ---
