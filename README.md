@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋 I'm Gonçalo Ribeiro</h1>
 
 ## 📌 About Me
-- 🎓 Graduated in Computer Science and Engineering from <a href="https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering">ISEL</a>
+- 🎓 I hold a BSc in Computer Science and Engineering from <a href="https://www.isel.pt/en/curso/bsc-degree/computer-science-and-computer-engineering">ISEL</a>
 - 🎯 **Goals**: Deepen my understanding of software development best practices and apply what I've learned in real-world projects
 
 ---
